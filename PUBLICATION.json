@@ -1,0 +1,5 @@
+{
+  "storage": "browser_indexeddb",
+  "includesInitialBusinessData": false,
+  "index": "index.html"
+}
